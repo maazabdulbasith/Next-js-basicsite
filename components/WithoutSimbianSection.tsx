@@ -2,7 +2,7 @@
 
 import { AlertCard } from '../components/AlertCard';
 import { AlertFeed } from '../components/AlertFeed';
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import WithoutSimbianSection from '@/components/WithoutSimbianSection';
 
