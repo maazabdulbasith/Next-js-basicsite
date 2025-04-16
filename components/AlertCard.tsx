@@ -18,7 +18,7 @@ const icons = {
   active: Flame,
 };
 
-export const AlertCard: React.FC<AlertCardProps> = ({ title, count, icon, theme = 'red', color }) => {
+export const AlertCard: React.FC<AlertCardProps> = ({ title, count, icon, theme = 'red'}) => {
   const Icon = icons[icon];
   const isGreen = theme === 'green';
 

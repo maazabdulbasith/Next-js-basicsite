@@ -1,6 +1,5 @@
 'use client';
 
-import { useEffect } from 'react';
 import { AlertCard } from '@/components/AlertCard';
 
 export default function WithSimbianPage() {

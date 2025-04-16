@@ -8,12 +8,11 @@ import WithoutSimbianSection from '@/components/WithoutSimbianSection';
 
 export default function WithoutSimbianPage() {
   const router = useRouter();
-  const [isRedirecting, setIsRedirecting] = useState(false);
 
   // Redirect logic (optional, can be commented out for now)
   useEffect(() => {
     const timer = setTimeout(() => {
-      setIsRedirecting(true); // Set to true to indicate redirection will happen
+      
       router.push('/with-simbian');
     }, 5000);
 
