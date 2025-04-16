@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+My Thought Process: I was pretty excited to know about my application progress and could'nt wait to check the contents of the Task provided.
+As soon as i read "Next.js with Typescript and Tailwindcss" i knew this was not gonna be easy as ive never worked with the three and hadnt even installed or learnt them from any courses.
+I watched a few introduction videos and understood that they were similar to the other frameworks i have used but i did not know it was gonna prove as a really challenging task.
+Then i noticed the deadline, 24-36 hours would be the time taken for experienced devs, and me; a freshly graduated fresher whos done a handful of projects was definitely not gonna complete it within time.
 
-## Getting Started
+Animation Libraries : I wasnt aware of the tailwindcss updates and lost 5 hours correcting and debugging and looking for solutions until i came across one, but it still didnt work on my machine.
+I could not use TailwindCss which was pretty disappointing, as a frontend enthusiast all we would love to look as an end result is a visually attractive and pleasing website which i couldnt completely do,
+which resulted in a plain and bland website which i would'nt think would be the outcome.
+I managed to add a few of Framer Motion animations and overall i could say it was a great experience with Next.js as i was coding i could realise that it makes things easier than React js in many places.
 
-First, run the development server:
+Any known issues or improvements i would make with more time: My code logic consisted of redirecting from file to file which immediately came to my mind, but with the tight deadline i could'nt make it
+more efficient, along with the loss of tailwindcss, i would solve the bug and implement beautiful animations with a different theme and effects which i had initially planned on like GreenSock which i came across
+watching next.js tutorials.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Basically id take few mastercourses on Next.js and TailwindCss and build an equivalent or relatively competant website just like the one in the reference video.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Render link : https://next-js-basicsite.onrender.com
